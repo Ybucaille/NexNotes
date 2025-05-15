@@ -1,0 +1,23 @@
+# Interface graphique
+customtkinter==5.2.2
+tkinterdnd2==0.4.3
+Pillow==11.1.0
+
+# Traitement audio
+pydub==0.25.1
+librosa==0.11.0
+soundfile==0.13.1
+soxr==0.5.0.post1
+audioread==3.0.1
+
+# Résumé offline (T5-small)
+torch==2.6.0
+transformers==4.39.3
+sentencepiece==0.2.0
+
+# Résumé online (via OpenAI)
+openai==1.78.1
+python-dotenv==1.1.0
+
+# Divers
+langdetect==1.0.9
